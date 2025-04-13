@@ -45,27 +45,27 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 ------
 
-![1.1](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.1](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.1.jpg)
 
-![1.2](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.2](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.2.jpg)
 
-![1.3](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.3](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.3.jpg)
 
-![1.4](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.4](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.4.jpg)
 
-![1.5](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.5](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.5.jpg)
 
-![1.6](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.6](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.6.jpg)
 
-![1.7](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.7](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.7.jpg)
 
-![1.8](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.8](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.8.jpg)
 
-![1.9](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.9](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.9.jpg)
 
-![1.10](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.10](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.10.jpg)
 
-![1.11](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![1.11](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/1.11.jpg)
 
 
 ------
