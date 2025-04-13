@@ -77,6 +77,17 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 ------
 
+![2.1](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/2.1.jpg)
+
+![2.2](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/2.2.jpg)
+
+![2.3](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/2.3.jpg)
+
+![2.4](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/2.4.jpg)
+
+![2.5](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/2.5.jpg)
+
+![2.6](https://github.com/Ivan-Shkutov/sflt-homeworks-9-02/blob/main/img/2.6.jpg)
 
 
 ------
